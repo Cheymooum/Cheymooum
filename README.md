@@ -12,7 +12,7 @@
 
 ```python
 chaima = {
-    "statut"     : "Étudiante en L3 Informatique 🎓",
+    "statut"     : "Étudiante en L3 Mathématiques - Informatique 🎓",
     "passions"   : ["Algorithmique", "Data", "Analyse", "Maths"],
     "objectifs"  : ["Master Maths Appliquées", "Master Data Analyst"],
     "fun_fact"   : "Dark mode activé en permanence 🌙",
