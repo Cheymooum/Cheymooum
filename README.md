@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=%F0%9F%8C%99+Dark+mode+only.+Always.;%F0%9F%93%8A+Data+%2B+Algo+%3D+%E2%9D%A4%EF%B8%8F;%F0%9F%8E%93+%C3%89tudiante+en+L3+Informatique)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=%F0%9F%8C%99+Dark+mode+only.+Always.;%F0%9F%93%8A+Data+%2B+Algo+%3D+%E2%9D%A4%EF%B8%8F;%F0%9F%8E%93+%C3%89tudiante+en+L3+Maths+Info)
 
 </div>
 
