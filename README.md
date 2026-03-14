@@ -24,6 +24,8 @@ chaima = {
 
 ## 🛠️ Langages & Outils
 
+**💻 Langages de programmation**
+
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -31,6 +33,30 @@ chaima = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+**🔧 Outils & Environnements**
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+</div>
+
+**🌍 Langues**
+
+<div align="center">
+
+![Français](https://img.shields.io/badge/Français-Bilingue-A78BFA?style=for-the-badge)
+![Anglais](https://img.shields.io/badge/Anglais-Courant-6366F1?style=for-the-badge)
+![Arabe](https://img.shields.io/badge/Arabe-Notions-818CF8?style=for-the-badge)
+![Espagnol](https://img.shields.io/badge/Espagnol-Notions-C4B5FD?style=for-the-badge)
 
 </div>
 
@@ -75,7 +101,6 @@ chaima = {
 *Merci pour ta visite !* 🌙⭐
 
 </div>
-
 <!--
 **Cheymooum/Cheymooum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
