@@ -81,7 +81,7 @@ chaima = {
 ## 🎯 Objectifs
 
 - 🔭 Explorer les domaines de la **data analyse** et des **maths appliquées**
-- 🎓 Poursuivre en **Master Mathématiques Appliquées** ou **Master Data Analyst**
+- 🎓 Poursuivre en **Master Mathématiques Appliquées** ou **Master Data Sciences**
 - 📈 Monter en compétences en **Machine Learning** et **statistiques**
 - 🤝 Trouver un **stage** pour mettre en pratique mes connaissances
 
